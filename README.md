@@ -17,5 +17,5 @@
     
 3. __`collisions`__:
     >  [HERE](https://drive.google.com/open?id=1P6FaBfvh5fRYq63CM2iI62428B7UWpyk) you can download dictionaries where are stored collisions from the first and the second part of TASK 2:
-    >  col1.json is for the case __"ABAA = AAAB"__\  
+    >  col1.json is for the case __"ABAA = AAAB"__    
     >  col2.json is for the case __"ABAA != AAAB"__
