@@ -1,5 +1,26 @@
-
+# ADM 2018
 # Homework 4
+## Group 34
+
+By:
+* Gabriele Macchi
+* Farid Rusalov
+* Karamiko Alexander Krisna 
+* Hassan Ismail
+
+#### File Structure:
+* Homework.ipyng: the (as-tidy-as-we-could) main document containing the whole solution with its functionality and explainations.
+* classes (folder): contain the py files of our custom class
+...* kBeans.py: the python file of the kBeans class
+* data (folder) : contains our cleansed datasets
+...* various datasets
+
+#### To view our solution:
+you may see the file using online nbviewer on the below link:
+
+https://nbviewer.jupyter.org/github/ha-ismail/ADM-HW4-G34/blob/master/Homework4.ipynb
+
+#T H A N K Y O U !
 
 1) Does basic house information reflect house's description?
 2) Find the duplicates!
