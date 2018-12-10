@@ -24,7 +24,7 @@ By:
     >  [This](https://github.com/ha-ismail/ADM-HW4-G34/tree/master/data) folder contaiins the data which is necessary for the TASK 1 of this homework.
 
 3. __`classes (folder)`__ :
-    >  [This](https://github.com/ha-ismail/ADM-HW4-G34/tree/master/classes) the python file of the kBeans class.
+    >  [This](https://github.com/ha-ismail/ADM-HW4-G34/tree/master/classes) folder the python file of the kBeans class.
     
 4. __`collisions`__:
     >  [HERE](https://drive.google.com/open?id=1P6FaBfvh5fRYq63CM2iI62428B7UWpyk) you can download dictionaries where are stored collisions from the first and the second part of TASK 2:
