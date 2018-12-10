@@ -17,8 +17,8 @@ By:
 
 #### File Structure:
 
-1. __`Homework.ipynb`__: 
-	>  [This](https://github.com/ha-ismail/ADM-HW4-G34/blob/master/HW4.ipynb) file contains the code script with comments and explanations.
+1. __`Homework4.ipynb`__: 
+	>  [This](https://github.com/ha-ismail/ADM-HW4-G34/blob/master/Homework4.ipynb) file contains the code script with comments and explanations.
 
 2. __`data (folder)`__ :
     >  [This](https://github.com/ha-ismail/ADM-HW4-G34/tree/master/data) folder contaiins the data which is necessary for the TASK 1 of this homework.
