@@ -22,6 +22,7 @@ By:
 
 2. __`data (folder)`__ :
     >  [This](https://github.com/ha-ismail/ADM-HW4-G34/tree/master/data) folder contaiins the data which is necessary for the TASK 1 of this homework.
+    Matrix files have not been uploaded due to their high size 
 
 3. __`classes (folder)`__ :
     >  [This](https://github.com/ha-ismail/ADM-HW4-G34/tree/master/classes) folder the python file of the kBeans class.
